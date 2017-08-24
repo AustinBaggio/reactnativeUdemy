@@ -34,4 +34,4 @@ const styles = {
 
 
 //make components available to other parts of the App
-export default Header;
+export { Header };
