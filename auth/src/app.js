@@ -6,8 +6,10 @@ class App extends Component {
   render() {
     return (
       <View>
-        <Text>An APP</Text>
+        <Text>AN APP</Text>
       </View>
-    )
+    );
   }
 }
+
+export default App;
